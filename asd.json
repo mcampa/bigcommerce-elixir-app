@@ -1,0 +1,9 @@
+{
+  "client_id": "d43zj85tiwn114mxsx4nnksa3wgmv5a",
+  "client_secret": "gsfs9wwkay7agvavnxpyeyj3vcotepg",
+  "code": "iqac8lrzxgkabgtrlb7en3oz4cvhlfv",
+  "context": "stores/gyfoori",
+  "grant_type": "authorization_code",
+  "redirect_uri": "https://f6d1d0cd.ngrok.io/app/auth",
+  "scope": "store_v2_content_read_only store_v2_customers_login store_v2_customers_read_only store_v2_default store_v2_information_read_only store_v2_marketing_read_only store_v2_orders_read_only store_v2_products_read_only"
+}
